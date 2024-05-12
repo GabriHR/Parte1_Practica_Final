@@ -49,32 +49,22 @@ La entrega de la práctica forma parte de la evaluación de la práctica.
 
 La memoria incluirá una portada con el nombre del alumno y se ajustará a la siguiente estructura:
 
-•           Análisis y descripción de la aplicación. Este análisis y descripción dará respuesta a las siguientes preguntas:
+   - Análisis y descripción de la aplicación. Este análisis y descripción dará respuesta a las siguientes preguntas:
 
-o   Cómo se han organizado y estructurado las clases y cuál es la responsabilidad de cada una.
+   -- Cómo se han organizado y estructurado las clases y cuál es la responsabilidad de cada una.
 
-o   Qué decisiones de diseño se han tomado.
+   -- Qué decisiones de diseño se han tomado.
 
-o   Qué comprobaciones de integridad (y excepciones) se han implementado.
+   -- Qué comprobaciones de integridad (y excepciones) se han implementado.
 
-o   Qué técnicas de ordenación y búsqueda ha utilizado y por qué lo ha hecho.
+   -- Qué técnicas de ordenación y búsqueda ha utilizado y por qué lo ha hecho.
 
-o   Diagramas de clases UML.
+   -- Diagramas de clases UML.
 
-•           Listado de fallos conocidos y funcionalidades definidas en el enunciado que no se han implementado en el código entregado.
+   - Listado de fallos conocidos y funcionalidades definidas en el enunciado que no se han implementado en el código entregado.
 
-•           Listado de todo el código fuente de la aplicación organizado por paquetes (si aplica) y clases.
+   - Listado de todo el código fuente de la aplicación organizado por paquetes (si aplica) y clases.
 
-•           Listado de pruebas unitarias realizadas.
+   - Listado de pruebas unitarias realizadas.
 
-•           Conclusiones (que incluirán, obligatoriamente, una valoración del tiempo dedicado a la práctica).
-
- Además de la defensa, la práctica se evaluará en relación a:
-
-•           Organización y estructura del código (utilización de conceptos y patrones de programación, orientada a objetos: herencia, polimorfismo, encapsulación, reutilización, utilización correcta de estructuras de control, etc.).
-
-•           Uso de Javadoc para documentar las clases y métodos.
-
-•           Funcionamiento ajustado a los requisitos establecidos (incluyendo, además de chequeos de datos, integridad de la información, gestión de excepciones...).
-
-•           Claridad del código y adecuación a las normas de estilo (correcto nombrado de clases, métodos y variables, comentarios internos, indentación del código...).
+   - Conclusiones (que incluirán, obligatoriamente, una valoración del tiempo dedicado a la práctica).
