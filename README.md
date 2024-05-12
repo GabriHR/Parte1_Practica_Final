@@ -36,3 +36,6 @@ Clases e Interfaces:
 ## [LAB]
 
 Esta parte del proyecto es todo lo que consolida a la interfaz gráfica (GUI), interfaz que interactua con el usuario y le permite modificar, añadir borrar y ver información sobre cualquier tipo de dato añadido sobre los experimentos y poblaciones de bacterias.
+
+Clases:
+   - La clase MainFrame es la ventana principal de una aplicación de escritorio Java, extendiendo JFrame. En ella, se gestiona una instancia de ManejoExperimentoImpl para manipular experimentos. Su constructor configura propiedades de la ventana y añade componentes como paneles y botones. El método main(String[] args) es el punto de entrada de la aplicación, creando y ejecutando una instancia de MainFrame en el hilo de eventos de Swing. De esta manera, MainFrame controla la interfaz y el inicio de la aplicación de forma centralizada.
