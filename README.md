@@ -69,7 +69,7 @@ La memoria incluirá una portada con el nombre del alumno y se ajustará a la si
 
 ## [CRITERIOS EVALUACIÓN]
 
-la práctica se evaluará en relación a:
+La práctica se evaluará en relación a:
 
 - Organización y estructura del código (utilización de conceptos y patrones de programación, orientada a objetos: herencia, polimorfismo, encapsulación, reutilización, utilización correcta de estructuras de control, etc.).
 
