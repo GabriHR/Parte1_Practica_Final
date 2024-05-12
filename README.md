@@ -51,15 +51,15 @@ La memoria incluirá una portada con el nombre del alumno y se ajustará a la si
 
    - Análisis y descripción de la aplicación. Este análisis y descripción dará respuesta a las siguientes preguntas:
 
-   -- Cómo se han organizado y estructurado las clases y cuál es la responsabilidad de cada una.
+   - Cómo se han organizado y estructurado las clases y cuál es la responsabilidad de cada una.
 
-   -- Qué decisiones de diseño se han tomado.
+   - Qué decisiones de diseño se han tomado.
 
-   -- Qué comprobaciones de integridad (y excepciones) se han implementado.
+   - Qué comprobaciones de integridad (y excepciones) se han implementado.
 
-   -- Qué técnicas de ordenación y búsqueda ha utilizado y por qué lo ha hecho.
+   - Qué técnicas de ordenación y búsqueda ha utilizado y por qué lo ha hecho.
 
-   -- Diagramas de clases UML.
+   - Diagramas de clases UML.
 
    - Listado de fallos conocidos y funcionalidades definidas en el enunciado que no se han implementado en el código entregado.
 
