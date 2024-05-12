@@ -13,8 +13,6 @@ LINK: (https://github.com/GabriHR/Parte1_Practica_Final.git)
    - [LAB](#lab)
 3. [ENTREGABLES](#entregables)
 4. [CRITERIOS EVALUACIÓN](#criterios-evaluación)
-5. [RÚBRICA](#rÚbrica)
-
 
 ## DESCRIPCIÓN
 
