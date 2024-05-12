@@ -68,3 +68,15 @@ La memoria incluirá una portada con el nombre del alumno y se ajustará a la si
    - Listado de pruebas unitarias realizadas.
 
    - Conclusiones (que incluirán, obligatoriamente, una valoración del tiempo dedicado a la práctica).
+
+## [CRITERIOS EVALUACIÓN]
+
+la práctica se evaluará en relación a:
+
+- Organización y estructura del código (utilización de conceptos y patrones de programación, orientada a objetos: herencia, polimorfismo, encapsulación, reutilización, utilización correcta de estructuras de control, etc.).
+
+- Uso de Javadoc para documentar las clases y métodos.
+
+- Funcionamiento ajustado a los requisitos establecidos (incluyendo, además de chequeos de datos, integridad de la información, gestión de excepciones...).
+
+- Claridad del código y adecuación a las normas de estilo (correcto nombrado de clases, métodos y variables, comentarios internos, indentación del código...).
