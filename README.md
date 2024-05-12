@@ -32,3 +32,7 @@ Clases e Interfaces:
    - La clase ManejoExperimentoImpl administra una lista de experimentos. Cuenta con métodos para obtener la lista de experimentos, agregar nuevos experimentos, buscar experimentos por nombre y cargar experimentos por nombre. Es una implementación de la interfaz ManejoExperimento.
    - La interfaz ManejoExperimento establece un conjunto de operaciones estándar para manipular experimentos, incluyendo guardar, cargar y obtener una lista de experimentos. La implementación de cómo se realizan estas operaciones queda a discreción de las clases que implementan esta interfaz.
    - La clase OrganizacionComida modela cómo se organiza la comida en un experimento con bacterias. Tiene campos que representan la cantidad inicial de comida, el día hasta el cual se incrementa la comida, la cantidad de comida en el día de incremento y la cantidad final de comida en el día 30. Además de los métodos getter para acceder a estos campos, incluye funcionalidades para calcular la cantidad de comida por día durante 30 días, imprimir esta información y proporcionar una representación en cadena del objeto.
+
+## [LAB]
+
+Esta parte del proyecto es todo lo que consolida a la interfaz gráfica (GUI), interfaz que interactua con el usuario y le permite modificar, añadir borrar y ver información sobre cualquier tipo de dato añadido sobre los experimentos y poblaciones de bacterias.
